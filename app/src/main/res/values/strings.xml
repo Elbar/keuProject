@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KeuProject</string>
+    <string name="title_home">Главная</string>
+    <string name="title_contacts">Контакты</string>
+    <string name="title_email">Почта</string>
+    <string name="title_place">Локация</string>
+</resources>
